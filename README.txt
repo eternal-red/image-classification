@@ -25,7 +25,7 @@ Image preprocessing:
 
 Batch-level augmentations:
 
-- CutMix / MixUp via a custom `collate_fn`.
+- CutMix / MixUp (batchwise augmentations) via a custom `collate_fn`.
 
 ---
 
